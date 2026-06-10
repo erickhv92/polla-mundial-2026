@@ -1,0 +1,45 @@
+{
+ "round": "QF",
+ "matches": [
+  {
+   "match": 97,
+   "date": "2026-07-09",
+   "venue": "Foxborough",
+   "home": "Francia",
+   "away": "Marruecos",
+   "feeders": "W89 vs W90",
+   "winner": "Francia",
+   "via": "prorroga"
+  },
+  {
+   "match": 98,
+   "date": "2026-07-10",
+   "venue": "Inglewood",
+   "home": "Espana",
+   "away": "Belgica",
+   "feeders": "W93 vs W94",
+   "winner": "Espana",
+   "via": "90"
+  },
+  {
+   "match": 99,
+   "date": "2026-07-11",
+   "venue": "Miami Gardens",
+   "home": "Brasil",
+   "away": "Inglaterra",
+   "feeders": "W91 vs W92",
+   "winner": "Inglaterra",
+   "via": "prorroga"
+  },
+  {
+   "match": 100,
+   "date": "2026-07-11",
+   "venue": "Kansas City",
+   "home": "Argentina",
+   "away": "Portugal",
+   "feeders": "W95 vs W96",
+   "winner": "Argentina",
+   "via": "penales"
+  }
+ ]
+}

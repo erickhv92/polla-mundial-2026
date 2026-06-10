@@ -1,0 +1,306 @@
+{
+ "N": 30000,
+ "seed": 20260603,
+ "champion": [
+  [
+   "france",
+   15.7,
+   [
+    15.3,
+    16.1
+   ]
+  ],
+  [
+   "spain",
+   15.7,
+   [
+    15.3,
+    16.1
+   ]
+  ],
+  [
+   "england",
+   11.8,
+   [
+    11.4,
+    12.1
+   ]
+  ],
+  [
+   "brazil",
+   10.8,
+   [
+    10.5,
+    11.2
+   ]
+  ],
+  [
+   "argentina",
+   10.5,
+   [
+    10.2,
+    10.9
+   ]
+  ],
+  [
+   "portugal",
+   7.5,
+   [
+    7.2,
+    7.8
+   ]
+  ],
+  [
+   "germany",
+   4.9,
+   [
+    4.6,
+    5.1
+   ]
+  ],
+  [
+   "morocco",
+   4.8,
+   [
+    4.6,
+    5.1
+   ]
+  ],
+  [
+   "netherlands",
+   3.3,
+   [
+    3.1,
+    3.5
+   ]
+  ],
+  [
+   "belgium",
+   2.4,
+   [
+    2.3,
+    2.6
+   ]
+  ],
+  [
+   "colombia",
+   2.2,
+   [
+    2.1,
+    2.4
+   ]
+  ],
+  [
+   "uruguay",
+   1.6,
+   [
+    1.5,
+    1.8
+   ]
+  ]
+ ],
+ "reach_final": [
+  [
+   "spain",
+   41.2
+  ],
+  [
+   "france",
+   40.7
+  ],
+  [
+   "england",
+   32.5
+  ],
+  [
+   "argentina",
+   29.6
+  ],
+  [
+   "brazil",
+   29.5
+  ],
+  [
+   "portugal",
+   22.2
+  ],
+  [
+   "germany",
+   15.5
+  ],
+  [
+   "morocco",
+   15.0
+  ],
+  [
+   "netherlands",
+   11.0
+  ],
+  [
+   "belgium",
+   9.1
+  ],
+  [
+   "colombia",
+   8.3
+  ],
+  [
+   "uruguay",
+   6.2
+  ]
+ ],
+ "reach_sf": [
+  [
+   "spain",
+   40.8
+  ],
+  [
+   "france",
+   38.5
+  ],
+  [
+   "england",
+   33.6
+  ],
+  [
+   "argentina",
+   33.0
+  ],
+  [
+   "brazil",
+   30.6
+  ],
+  [
+   "portugal",
+   27.4
+  ],
+  [
+   "germany",
+   20.0
+  ],
+  [
+   "morocco",
+   19.5
+  ],
+  [
+   "belgium",
+   16.0
+  ],
+  [
+   "netherlands",
+   15.5
+  ],
+  [
+   "colombia",
+   14.5
+  ],
+  [
+   "uruguay",
+   11.7
+  ]
+ ],
+ "golden_boot": [
+  [
+   "Kylian Mbappé",
+   22.7
+  ],
+  [
+   "Julián Álvarez",
+   8.6
+  ],
+  [
+   "Harry Kane",
+   8.2
+  ],
+  [
+   "Mikel Oyarzabal",
+   6.4
+  ],
+  [
+   "Cristiano Ronaldo",
+   6.0
+  ],
+  [
+   "Raphinha",
+   5.5
+  ],
+  [
+   "Erling Haaland",
+   5.2
+  ],
+  [
+   "Christian Pulisic",
+   3.6
+  ],
+  [
+   "Kai Havertz",
+   3.3
+  ],
+  [
+   "Memphis Depay",
+   2.8
+  ],
+  [
+   "Raúl Jiménez",
+   2.6
+  ],
+  [
+   "Lautaro Martínez",
+   1.9
+  ]
+ ],
+ "gb_goals_median": 7,
+ "gb_goals_p25": 6,
+ "gb_goals_p90": 9,
+ "mvp": [
+  [
+   "Kylian Mbappé",
+   15.3
+  ],
+  [
+   "Lionel Messi",
+   10.5
+  ],
+  [
+   "Raphinha",
+   6.9
+  ],
+  [
+   "Harry Kane",
+   5.9
+  ],
+  [
+   "Julián Álvarez",
+   4.7
+  ],
+  [
+   "Bruno Fernandes",
+   4.3
+  ],
+  [
+   "Kevin De Bruyne",
+   3.6
+  ],
+  [
+   "Lamine Yamal",
+   3.5
+  ],
+  [
+   "Christian Pulisic",
+   3.2
+  ],
+  [
+   "Florian Wirtz",
+   2.9
+  ],
+  [
+   "James Rodríguez",
+   2.8
+  ],
+  [
+   "Memphis Depay",
+   2.7
+  ]
+ ],
+ "qualify_iran": 65.4
+}

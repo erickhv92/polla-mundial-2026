@@ -1,0 +1,45 @@
+{
+ "sf": [
+  {
+   "match": 101,
+   "date": "2026-07-14",
+   "venue": "Arlington (Dallas)",
+   "home": "Francia",
+   "away": "Espana",
+   "feeders": "W97 vs W98",
+   "winner": "Espana",
+   "via": "prorroga"
+  },
+  {
+   "match": 102,
+   "date": "2026-07-15",
+   "venue": "Atlanta",
+   "home": "Inglaterra",
+   "away": "Argentina",
+   "feeders": "W99 vs W100",
+   "winner": "Inglaterra",
+   "via": "prorroga"
+  }
+ ],
+ "third_place": {
+  "match": 103,
+  "date": "2026-07-18",
+  "venue": "Miami",
+  "home": "Francia",
+  "away": "Argentina",
+  "winner": "Argentina",
+  "via": "penales",
+  "score": "1-1"
+ },
+ "final": {
+  "match": 104,
+  "date": "2026-07-19",
+  "venue": "East Rutherford NJ",
+  "home": "Espana",
+  "away": "Inglaterra",
+  "winner": "Espana",
+  "via": "prorroga",
+  "score": "2-1",
+  "mvp": "Lamine Yamal"
+ }
+}

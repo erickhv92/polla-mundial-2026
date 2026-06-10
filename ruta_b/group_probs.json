@@ -1,0 +1,362 @@
+{
+ "A|mexico|south_africa": [
+  0.62,
+  0.22,
+  0.16
+ ],
+ "A|south_korea|czechia": [
+  0.32,
+  0.4,
+  0.28
+ ],
+ "B|canada|bosnia_and_herzegovina": [
+  0.5,
+  0.27,
+  0.23
+ ],
+ "B|qatar|switzerland": [
+  0.16,
+  0.22,
+  0.62
+ ],
+ "C|brazil|morocco": [
+  0.5,
+  0.27,
+  0.23
+ ],
+ "C|haiti|scotland": [
+  0.23,
+  0.27,
+  0.5
+ ],
+ "D|united_states|paraguay": [
+  0.5,
+  0.27,
+  0.23
+ ],
+ "D|australia|turkiye": [
+  0.23,
+  0.27,
+  0.5
+ ],
+ "E|germany|curacao": [
+  0.72,
+  0.18,
+  0.1
+ ],
+ "E|ivory_coast|ecuador": [
+  0.33,
+  0.36,
+  0.31
+ ],
+ "F|netherlands|japan": [
+  0.5,
+  0.27,
+  0.23
+ ],
+ "F|sweden|tunisia": [
+  0.5,
+  0.27,
+  0.23
+ ],
+ "G|belgium|egypt": [
+  0.5,
+  0.27,
+  0.23
+ ],
+ "G|iran|new_zealand": [
+  0.5,
+  0.27,
+  0.23
+ ],
+ "H|spain|cape_verde": [
+  0.62,
+  0.22,
+  0.16
+ ],
+ "H|saudi_arabia|uruguay": [
+  0.16,
+  0.22,
+  0.62
+ ],
+ "I|france|senegal": [
+  0.5,
+  0.27,
+  0.23
+ ],
+ "I|iraq|norway": [
+  0.16,
+  0.22,
+  0.62
+ ],
+ "J|argentina|algeria": [
+  0.62,
+  0.22,
+  0.16
+ ],
+ "J|austria|jordan": [
+  0.62,
+  0.22,
+  0.16
+ ],
+ "K|portugal|dr_congo": [
+  0.62,
+  0.22,
+  0.16
+ ],
+ "K|uzbekistan|colombia": [
+  0.16,
+  0.22,
+  0.62
+ ],
+ "L|england|croatia": [
+  0.5,
+  0.27,
+  0.23
+ ],
+ "L|ghana|panama": [
+  0.33,
+  0.36,
+  0.31
+ ],
+ "A|czechia|south_africa": [
+  0.5,
+  0.27,
+  0.23
+ ],
+ "A|mexico|south_korea": [
+  0.5,
+  0.27,
+  0.23
+ ],
+ "B|switzerland|bosnia_and_herzegovina": [
+  0.62,
+  0.22,
+  0.16
+ ],
+ "B|canada|qatar": [
+  0.62,
+  0.22,
+  0.16
+ ],
+ "C|scotland|morocco": [
+  0.23,
+  0.27,
+  0.5
+ ],
+ "C|brazil|haiti": [
+  0.72,
+  0.18,
+  0.1
+ ],
+ "D|united_states|australia": [
+  0.5,
+  0.27,
+  0.23
+ ],
+ "D|turkiye|paraguay": [
+  0.62,
+  0.22,
+  0.16
+ ],
+ "E|germany|ivory_coast": [
+  0.62,
+  0.22,
+  0.16
+ ],
+ "E|ecuador|curacao": [
+  0.62,
+  0.22,
+  0.16
+ ],
+ "F|netherlands|sweden": [
+  0.62,
+  0.22,
+  0.16
+ ],
+ "F|tunisia|japan": [
+  0.23,
+  0.27,
+  0.5
+ ],
+ "G|belgium|iran": [
+  0.62,
+  0.22,
+  0.16
+ ],
+ "G|new_zealand|egypt": [
+  0.23,
+  0.27,
+  0.5
+ ],
+ "H|spain|saudi_arabia": [
+  0.72,
+  0.18,
+  0.1
+ ],
+ "H|uruguay|cape_verde": [
+  0.62,
+  0.22,
+  0.16
+ ],
+ "I|france|iraq": [
+  0.62,
+  0.22,
+  0.16
+ ],
+ "I|norway|senegal": [
+  0.5,
+  0.27,
+  0.23
+ ],
+ "J|argentina|austria": [
+  0.5,
+  0.27,
+  0.23
+ ],
+ "J|jordan|algeria": [
+  0.16,
+  0.22,
+  0.62
+ ],
+ "K|portugal|uzbekistan": [
+  0.62,
+  0.22,
+  0.16
+ ],
+ "K|colombia|dr_congo": [
+  0.62,
+  0.22,
+  0.16
+ ],
+ "L|england|ghana": [
+  0.62,
+  0.22,
+  0.16
+ ],
+ "L|panama|croatia": [
+  0.23,
+  0.27,
+  0.5
+ ],
+ "A|czechia|mexico": [
+  0.23,
+  0.27,
+  0.5
+ ],
+ "A|south_africa|south_korea": [
+  0.23,
+  0.27,
+  0.5
+ ],
+ "B|switzerland|canada": [
+  0.32,
+  0.4,
+  0.28
+ ],
+ "B|bosnia_and_herzegovina|qatar": [
+  0.5,
+  0.27,
+  0.23
+ ],
+ "C|scotland|brazil": [
+  0.32,
+  0.4,
+  0.28
+ ],
+ "C|morocco|haiti": [
+  0.62,
+  0.22,
+  0.16
+ ],
+ "D|turkiye|united_states": [
+  0.23,
+  0.27,
+  0.5
+ ],
+ "D|paraguay|australia": [
+  0.42,
+  0.3,
+  0.28
+ ],
+ "E|ecuador|germany": [
+  0.32,
+  0.4,
+  0.28
+ ],
+ "E|curacao|ivory_coast": [
+  0.16,
+  0.22,
+  0.62
+ ],
+ "F|japan|sweden": [
+  0.5,
+  0.27,
+  0.23
+ ],
+ "F|tunisia|netherlands": [
+  0.23,
+  0.27,
+  0.5
+ ],
+ "G|egypt|iran": [
+  0.5,
+  0.27,
+  0.23
+ ],
+ "G|new_zealand|belgium": [
+  0.23,
+  0.27,
+  0.5
+ ],
+ "H|cape_verde|saudi_arabia": [
+  0.42,
+  0.3,
+  0.28
+ ],
+ "H|uruguay|spain": [
+  0.23,
+  0.27,
+  0.5
+ ],
+ "I|norway|france": [
+  0.23,
+  0.27,
+  0.5
+ ],
+ "I|senegal|iraq": [
+  0.5,
+  0.27,
+  0.23
+ ],
+ "J|algeria|austria": [
+  0.42,
+  0.3,
+  0.28
+ ],
+ "J|jordan|argentina": [
+  0.16,
+  0.22,
+  0.62
+ ],
+ "K|colombia|portugal": [
+  0.32,
+  0.4,
+  0.28
+ ],
+ "K|dr_congo|uzbekistan": [
+  0.5,
+  0.27,
+  0.23
+ ],
+ "L|panama|england": [
+  0.16,
+  0.22,
+  0.62
+ ],
+ "L|croatia|ghana": [
+  0.62,
+  0.22,
+  0.16
+ ]
+}

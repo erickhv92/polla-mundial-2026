@@ -1,0 +1,85 @@
+{
+ "round": "R16",
+ "matches": [
+  {
+   "match": 89,
+   "date": "2026-07-04",
+   "venue": "Philadelphia",
+   "home": "Alemania",
+   "away": "Francia",
+   "feeders": "W74 vs W77",
+   "winner": "Francia",
+   "via": "prorroga"
+  },
+  {
+   "match": 90,
+   "date": "2026-07-04",
+   "venue": "Houston",
+   "home": "Corea",
+   "away": "Marruecos",
+   "feeders": "W73 vs W75",
+   "winner": "Marruecos",
+   "via": "90"
+  },
+  {
+   "match": 91,
+   "date": "2026-07-05",
+   "venue": "East Rutherford",
+   "home": "Brasil",
+   "away": "Ecuador",
+   "feeders": "W76 vs W78",
+   "winner": "Brasil",
+   "via": "prorroga"
+  },
+  {
+   "match": 92,
+   "date": "2026-07-05",
+   "venue": "Mexico City",
+   "home": "Mexico",
+   "away": "Inglaterra",
+   "feeders": "W79 vs W80",
+   "winner": "Inglaterra",
+   "via": "90"
+  },
+  {
+   "match": 93,
+   "date": "2026-07-06",
+   "venue": "Arlington",
+   "home": "Croacia",
+   "away": "Espana",
+   "feeders": "W83 vs W84",
+   "winner": "Espana",
+   "via": "90"
+  },
+  {
+   "match": 94,
+   "date": "2026-07-06",
+   "venue": "Seattle",
+   "home": "EEUU",
+   "away": "Belgica",
+   "feeders": "W81 vs W82",
+   "winner": "Belgica",
+   "via": "90"
+  },
+  {
+   "match": 95,
+   "date": "2026-07-07",
+   "venue": "Atlanta",
+   "home": "Argentina",
+   "away": "Turquia",
+   "feeders": "W86 vs W88",
+   "winner": "Argentina",
+   "via": "90"
+  },
+  {
+   "match": 96,
+   "date": "2026-07-07",
+   "venue": "Vancouver",
+   "home": "Suiza",
+   "away": "Portugal",
+   "feeders": "W85 vs W87",
+   "winner": "Portugal",
+   "via": "90"
+  }
+ ]
+}

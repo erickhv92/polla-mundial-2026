@@ -1,0 +1,176 @@
+{
+ "round": "R32",
+ "thirds_combo": "A,B,C,D,E,F,I,J",
+ "third_allocation": {
+  "1A": "3C",
+  "1B": "3J",
+  "1D": "3B",
+  "1E": "3D",
+  "1G": "3A",
+  "1I": "3F",
+  "1K": "3E",
+  "1L": "3I"
+ },
+ "matches": [
+  {
+   "match": 73,
+   "date": "2026-06-28",
+   "venue": "Inglewood",
+   "home": "Corea",
+   "away": "Canada",
+   "slot": "2A vs 2B",
+   "winner": "Corea",
+   "via": "penales"
+  },
+  {
+   "match": 74,
+   "date": "2026-06-29",
+   "venue": "Foxborough",
+   "home": "Alemania",
+   "away": "Paraguay",
+   "slot": "1E vs 3D",
+   "winner": "Alemania",
+   "via": "90"
+  },
+  {
+   "match": 75,
+   "date": "2026-06-29",
+   "venue": "Guadalajara",
+   "home": "PaisesBajos",
+   "away": "Marruecos",
+   "slot": "1F vs 2C",
+   "winner": "Marruecos",
+   "via": "penales"
+  },
+  {
+   "match": 76,
+   "date": "2026-06-29",
+   "venue": "Houston",
+   "home": "Brasil",
+   "away": "Japon",
+   "slot": "1C vs 2F",
+   "winner": "Brasil",
+   "via": "90"
+  },
+  {
+   "match": 77,
+   "date": "2026-06-30",
+   "venue": "East Rutherford",
+   "home": "Francia",
+   "away": "Suecia",
+   "slot": "1I vs 3F",
+   "winner": "Francia",
+   "via": "90"
+  },
+  {
+   "match": 78,
+   "date": "2026-06-30",
+   "venue": "Arlington",
+   "home": "Ecuador",
+   "away": "Noruega",
+   "slot": "2E vs 2I",
+   "winner": "Ecuador",
+   "via": "penales"
+  },
+  {
+   "match": 79,
+   "date": "2026-06-30",
+   "venue": "Ciudad de Mexico",
+   "home": "Mexico",
+   "away": "Escocia",
+   "slot": "1A vs 3C",
+   "winner": "Mexico",
+   "via": "90"
+  },
+  {
+   "match": 80,
+   "date": "2026-07-01",
+   "venue": "Atlanta",
+   "home": "Inglaterra",
+   "away": "Senegal",
+   "slot": "1L vs 3I",
+   "winner": "Inglaterra",
+   "via": "90"
+  },
+  {
+   "match": 81,
+   "date": "2026-07-01",
+   "venue": "Santa Clara",
+   "home": "EEUU",
+   "away": "Bosnia",
+   "slot": "1D vs 3B",
+   "winner": "EEUU",
+   "via": "90"
+  },
+  {
+   "match": 82,
+   "date": "2026-07-01",
+   "venue": "Seattle",
+   "home": "Belgica",
+   "away": "Chequia",
+   "slot": "1G vs 3A",
+   "winner": "Belgica",
+   "via": "prorroga"
+  },
+  {
+   "match": 83,
+   "date": "2026-07-02",
+   "venue": "Toronto",
+   "home": "Colombia",
+   "away": "Croacia",
+   "slot": "2K vs 2L",
+   "winner": "Croacia",
+   "via": "penales"
+  },
+  {
+   "match": 84,
+   "date": "2026-07-02",
+   "venue": "Inglewood",
+   "home": "Espana",
+   "away": "Argelia",
+   "slot": "1H vs 2J",
+   "winner": "Espana",
+   "via": "90"
+  },
+  {
+   "match": 85,
+   "date": "2026-07-02",
+   "venue": "Vancouver",
+   "home": "Suiza",
+   "away": "Austria",
+   "slot": "1B vs 3J",
+   "winner": "Suiza",
+   "via": "prorroga"
+  },
+  {
+   "match": 86,
+   "date": "2026-07-03",
+   "venue": "Miami",
+   "home": "Argentina",
+   "away": "Uruguay",
+   "slot": "1J vs 2H",
+   "winner": "Argentina",
+   "via": "prorroga"
+  },
+  {
+   "match": 87,
+   "date": "2026-07-03",
+   "venue": "Kansas City",
+   "home": "Portugal",
+   "away": "CostaMarfil",
+   "slot": "1K vs 3E",
+   "winner": "Portugal",
+   "via": "90"
+  },
+  {
+   "match": 88,
+   "date": "2026-07-03",
+   "venue": "Arlington",
+   "home": "Turquia",
+   "away": "Egipto",
+   "slot": "2D vs 2G",
+   "winner": "Turquia",
+   "via": "prorroga"
+  }
+ ]
+}
