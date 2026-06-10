@@ -2,7 +2,7 @@
 """Reporte visual — Polla Mundial 2026 (Ruta A agéntica + Ruta B Monte Carlo).
 Ejecutar:  streamlit run app.py
 """
-import json, glob, os, re
+import json, glob, os, re, urllib.request
 import pandas as pd
 import streamlit as st
 
@@ -61,6 +61,20 @@ if MC:
     st.sidebar.metric("Campeón (pick)", "España", "≈ Francia · empate 15.7%")
     st.sidebar.caption("MC: España=Francia 15.7% (volado). Pick por desempate: mercado + Ruta A.")
     st.sidebar.metric("Bota de Oro", MC["golden_boot"][0][0], f"{MC['golden_boot'][0][1]}%")
+
+# ---------- contador de visitas (counterapi.dev, +1 por sesión) ----------
+def _bump_views():
+    try:
+        url = "https://api.counterapi.dev/v1/erickhv92/polla-mundial-2026/up"
+        with urllib.request.urlopen(url, timeout=4) as r:
+            return json.load(r).get("count")
+    except Exception:
+        return None
+if "views" not in st.session_state:
+    st.session_state["views"] = _bump_views()
+st.sidebar.divider()
+_v = st.session_state.get("views")
+st.sidebar.metric("👁️ Visitas", f"{_v:,}".replace(",", ".") if isinstance(_v, int) else "—")
 
 # ====================================================== RESUMEN
 if page == "🏆 Resumen y respuestas":
