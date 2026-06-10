@@ -65,8 +65,10 @@ if MC:
 # ---------- contador de visitas (counterapi.dev, +1 por sesión) ----------
 def _bump_views():
     try:
-        url = "https://api.counterapi.dev/v1/erickhv92/polla-mundial-2026/up"
-        with urllib.request.urlopen(url, timeout=4) as r:
+        req = urllib.request.Request(
+            "https://api.counterapi.dev/v1/erickhv92/polla-mundial-2026/up",
+            headers={"User-Agent": "Mozilla/5.0 (polla-app)"})
+        with urllib.request.urlopen(req, timeout=4) as r:
             return json.load(r).get("count")
     except Exception:
         return None
